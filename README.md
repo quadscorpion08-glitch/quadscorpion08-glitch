@@ -3,7 +3,7 @@
 ## About Me
 3rd Year Telecommunications Engineering Student | Freelance Developer | Automation Specialist
 
-I'm a full-stack developer and automation enthusiast from Bangalore, India, specializing in building bots, automation workflows, and solving real-world problems with code.
+I'm a full-stack developer and automation enthusiast, specializing in building bots, automation workflows, and solving real-world problems with code.
 
 - Currently working on automation workflows and game bot development
 - Learning cybersecurity and RISC-V secure boot systems
@@ -45,17 +45,8 @@ I'm a full-stack developer and automation enthusiast from Bangalore, India, spec
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quadscorpion08-glitch&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p>
-
 
 ## Connect with Me
 
