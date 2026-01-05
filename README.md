@@ -52,8 +52,6 @@ I'm a full-stack developer and automation enthusiast, specializing in building b
   <img src="https://visitor-counter-badge.vercel.app/api/quadscorpion08-glitch/profile?style=for-the-badge&label=Profile+Views&color=EA4B71&labelColor=2b2930" alt="Profile Views" />
 </p> -->
 
-/## Achievements
-
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=quadscorpion08-glitch&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p> -->
