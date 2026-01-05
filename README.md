@@ -48,15 +48,15 @@ I'm a full-stack developer and automation enthusiast, specializing in building b
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitor-counter-badge.vercel.app/api/quadscorpion08-glitch/profile?style=for-the-badge&label=Profile+Views&color=EA4B71&labelColor=2b2930" alt="Profile Views" />
-</p>
+</p> -->
 
-## Achievements
+/## Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=quadscorpion08-glitch&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 
 ## Connect with Me
