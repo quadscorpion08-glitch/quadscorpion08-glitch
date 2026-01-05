@@ -51,6 +51,7 @@ I'm a full-stack developer and automation enthusiast, specializing in building b
 ## Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/quadscorpion_20)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadscorpion_20)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quadscorpion08@gmail.com)
 
 ---
