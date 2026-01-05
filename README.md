@@ -37,12 +37,7 @@ I'm a full-stack developer and automation enthusiast from Bangalore, India, spec
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ## GitHub Stats
-
-![Quadscorpion's GitHub stats](https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quadscorpion08-glitch&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quadscorpion08-glitch&layout=compact&theme=radical)
 
 ## Connect with Me
 
