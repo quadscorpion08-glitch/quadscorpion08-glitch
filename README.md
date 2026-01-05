@@ -45,16 +45,17 @@ I'm a full-stack developer and automation enthusiast from Bangalore, India, spec
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quadscorpion08-glitch&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quadscorpion08-glitch&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quadscorpion08-glitch&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 
 ## Connect with Me
 
