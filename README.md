@@ -1,131 +1,136 @@
+<!-- Dark Modern Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=150&section=header&text=Quad%20Scorpion&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&stroke=8B5CF6&strokeWidth=2"/>
+</div>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,27&height=170&section=header&text=Quad%20Scorpion&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=3rd+Year+Telecommunications+Engineering+Student;Full-Stack+Developer+%7C+Automation+Specialist;Building+Bots+%26+Automation+Workflows;Learning+Cybersecurity+%26+RISC-V+Systems" alt="Typing SVG" />
-</a>
+<div align="center">
+  
+  <!-- Animated Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Automation+Engineer" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=quadscorpion08-glitch&style=flat-square&color=8B5CF6&label=Profile+Views)
+  [![GitHub followers](https://img.shields.io/github/followers/quadscorpion08-glitch?style=flat-square&color=8B5CF6&labelColor=1a1a2e)](https://github.com/quadscorpion08-glitch)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+```yaml
+name: Quad Scorpion
+role: Full-Stack Developer | Automation Specialist | Freelancer
+education: 3rd Year Telecommunications Engineering Student
+location: India 🇮🇳
 
-I'm a full-stack developer and automation enthusiast, specializing in building bots, automation workflows, and solving real-world problems with code.
-
-- 🔭 Currently working on **automation workflows** and **game bot development**
-- 🔐 Learning **cybersecurity** and **RISC-V secure boot systems**
-- 💼 Freelancing on **n8n workflows**, **API integrations**, and **bot development**
-- 🎮 Building **automation tools** for gaming and productivity
-- ⚡ Passionate about **reverse engineering** and creating automation solutions
-
-<br clear="right"/>
+currently_working_on:
+  - Automation workflows & game bot development
+  - RISC-V secure boot systems with PUF/ML
+  
+learning:
+  - Cybersecurity & Reverse Engineering
+  - Embedded Systems Architecture
+  
+open_to:
+  - Freelance projects
+  - Collaboration on automation tools
+  - Discord/Telegram bot development
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `> tech_stack`
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=8B5CF6)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=8B5CF6)
+![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=8B5CF6)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=8B5CF6)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=8B5CF6)
 
-### 🧰 Tools & Technologies
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+</div>
 
-### � Embedded & Security
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🔐 Security & Embedded
+<div align="center">
+  
+![RISC-V](https://img.shields.io/badge/RISC--V-1a1a2e?style=flat-square&logo=riscv&logoColor=06B6D4)
+![QEMU](https://img.shields.io/badge/QEMU-1a1a2e?style=flat-square&logo=qemu&logoColor=06B6D4)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=06B6D4)
 
-### �🚀 Frameworks & Libraries
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</div>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
+### 🛠️ Tools & Frameworks
+<div align="center">
+  
+![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=flat-square&logo=n8n&logoColor=8B5CF6)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=8B5CF6)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=8B5CF6)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=8B5CF6)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=8B5CF6)
+![Laravel](https://img.shields.io/badge/Laravel-1a1a2e?style=flat-square&logo=laravel&logoColor=8B5CF6)
+
+</div>
+
+### 🗄️ Databases & ML
+<div align="center">
+  
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=06B6D4)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=06B6D4)
+![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=flat-square&logo=redis&logoColor=06B6D4)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=06B6D4)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github_stats`
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=quadscorpion08-glitch&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `> connect`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quadscorpion08-glitch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quadscorpion08-glitch&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![RISC-V Secure Boot](https://github-readme-stats.vercel.app/api/pin/?username=quadscorpion08-glitch&repo=-riscv_secure_boot_puf_ml&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/quadscorpion08-glitch/-riscv_secure_boot_puf_ml)
-[![Python Data Scraper](https://github-readme-stats.vercel.app/api/pin/?username=quadscorpion08-glitch&repo=python-data-scraper&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/quadscorpion08-glitch/python-data-scraper)
+  
+[![Discord](https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge&logo=discord&logoColor=8B5CF6)](https://discord.com/users/quadscorpion_20)
+[![Telegram](https://img.shields.io/badge/Telegram-1a1a2e?style=for-the-badge&logo=telegram&logoColor=8B5CF6)](https://t.me/quadscorpion_20)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:quadscorpion08@gmail.com)
 
 </div>
 
----
-
-## 🤝 Connect with Me
+<br/>
 
 <div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/quadscorpion_20)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadscorpion_20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quadscorpion08@gmail.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=footer"/>
+  
+  ```
+  💼 Open for Freelance | Let's build something amazing 🚀
+  ```
+  
 </div>
-
----
-
-<div align="center">
-
-### 💼 Open to Freelance Opportunities!
-
-*Let's collaborate on automation projects* 🚀
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=quadscorpion08-glitch&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,27&height=100&section=footer"/>
