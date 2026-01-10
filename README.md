@@ -104,8 +104,8 @@ open_to:
 ## `> github_stats`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9"/>
-  <!-- <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"/> -->
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9"/> -->
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"/>
 </div>
 
 <div align="center">
