@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Quad%20Scorpion&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,27&height=170&section=header&text=Quad%20Scorpion&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=3rd+Year+Telecommunications+Engineering+Student;Full-Stack+Developer+%7C+Automation+Specialist;Building+Bots+%26+Automation+Workflows;Learning+Cybersecurity+%26+RISC-V+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=3rd+Year+Telecommunications+Engineering+Student;Full-Stack+Developer+%7C+Automation+Specialist;Building+Bots+%26+Automation+Workflows;Learning+Cybersecurity+%26+RISC-V+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -128,4 +128,4 @@ I'm a full-stack developer and automation enthusiast, specializing in building b
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,27&height=100&section=footer"/>
