@@ -1,136 +1,116 @@
-<!-- Dark Modern Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=150&section=header&text=Quad%20Scorpion&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&stroke=8B5CF6&strokeWidth=2"/>
-</div>
 
-<div align="center">
-  
-  <!-- Animated Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Automation+Engineer" alt="Typing SVG" />
-  </a>
-  
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=quadscorpion08-glitch&style=flat-square&color=8B5CF6&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/quadscorpion08-glitch?style=flat-square&color=8B5CF6&labelColor=1a1a2e)](https://github.com/quadscorpion08-glitch)
+# Hey there! I'm **Quad Scorpion** 👋
+
+### `Full-Stack Developer` • `Automation Engineer` • `Cybersecurity Enthusiast`
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Building+bots+%26+automation+workflows;Learning+RISC-V+%26+Embedded+Security;3rd+Year+Telecom+Engineering+Student;Open+for+freelance+projects!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> whoami`
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
-```yaml
-name: Quad Scorpion
-role: Full-Stack Developer | Automation Specialist | Freelancer
-education: 3rd Year Telecommunications Engineering Student
-location: India 🇮🇳
+### 👨‍💻 About Me
 
-currently_working_on:
-  - Automation workflows & game bot development
-  - RISC-V secure boot systems with PUF/ML
-  
-learning:
-  - Cybersecurity & Reverse Engineering
-  - Embedded Systems Architecture
-  
-open_to:
-  - Freelance projects
-  - Collaboration on automation tools
-  - Discord/Telegram bot development
-```
+- 🎓 **3rd Year** Telecommunications Engineering Student
+- 🤖 Building **automation tools** & **Discord/Telegram bots**
+- 🔐 Learning **Cybersecurity** & **RISC-V Secure Boot**
+- 🛠️ Expert in **n8n workflows** & **API integrations**  
+- ⚡ Fun fact: I automate everything possible!
+
+<br clear="both"/>
 
 ---
 
-## `> tech_stack`
+### 🚀 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Languages:**
 
-### 💻 Languages
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=8B5CF6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=8B5CF6)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=8B5CF6)
-![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=8B5CF6)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=8B5CF6)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=8B5CF6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-</div>
+**Frameworks & Tools:**
 
-### 🔐 Security & Embedded
-<div align="center">
-  
-![RISC-V](https://img.shields.io/badge/RISC--V-1a1a2e?style=flat-square&logo=riscv&logoColor=06B6D4)
-![QEMU](https://img.shields.io/badge/QEMU-1a1a2e?style=flat-square&logo=qemu&logoColor=06B6D4)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-</div>
+**Automation & DevOps:**
 
-</td>
-<td valign="top" width="50%">
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🛠️ Tools & Frameworks
-<div align="center">
-  
-![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=flat-square&logo=n8n&logoColor=8B5CF6)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=8B5CF6)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=8B5CF6)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=8B5CF6)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=8B5CF6)
-![Laravel](https://img.shields.io/badge/Laravel-1a1a2e?style=flat-square&logo=laravel&logoColor=8B5CF6)
+**Embedded & Security:**
 
-</div>
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🗄️ Databases & ML
-<div align="center">
-  
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=06B6D4)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=06B6D4)
-![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=flat-square&logo=redis&logoColor=06B6D4)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=06B6D4)
+**Databases:**
 
-</div>
-
-</td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## `> github_stats`
+### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quadscorpion08-glitch&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quadscorpion08-glitch&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=quadscorpion08-glitch&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=quadscorpion08-glitch&theme=radical&hide_border=true"/>
 </div>
 
 ---
 
-## `> connect`
+### 🏆 Featured Projects
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge&logo=discord&logoColor=8B5CF6)](https://discord.com/users/quadscorpion_20)
-[![Telegram](https://img.shields.io/badge/Telegram-1a1a2e?style=for-the-badge&logo=telegram&logoColor=8B5CF6)](https://t.me/quadscorpion_20)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:quadscorpion08@gmail.com)
+[![RISC-V Secure Boot](https://github-readme-stats.vercel.app/api/pin/?username=quadscorpion08-glitch&repo=-riscv_secure_boot_puf_ml&theme=radical&hide_border=true)](https://github.com/quadscorpion08-glitch/-riscv_secure_boot_puf_ml)
+[![Python Data Scraper](https://github-readme-stats.vercel.app/api/pin/?username=quadscorpion08-glitch&repo=python-data-scraper&theme=radical&hide_border=true)](https://github.com/quadscorpion08-glitch/python-data-scraper)
 
 </div>
 
-<br/>
+---
+
+### 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=footer"/>
-  
-  ```
-  💼 Open for Freelance | Let's build something amazing 🚀
-  ```
-  
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/quadscorpion_20)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadscorpion_20)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quadscorpion08@gmail.com)
+
+<br>
+
+**💼 Open for Freelance Opportunities!**
+
+*Let's build something amazing together* 🚀
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=quadscorpion08-glitch&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 </div>
