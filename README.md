@@ -114,16 +114,6 @@ open_to:
 
 ---
 
-## `> featured_projects`
-
-<div align="center">
-  
-[![RISC-V Secure Boot](https://github-readme-stats.vercel.app/api/pin/?username=quadscorpion08-glitch&repo=-riscv_secure_boot_puf_ml&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4)](https://github.com/quadscorpion08-glitch/-riscv_secure_boot_puf_ml)
-[![Python Data Scraper](https://github-readme-stats.vercel.app/api/pin/?username=quadscorpion08-glitch&repo=python-data-scraper&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4)](https://github.com/quadscorpion08-glitch/python-data-scraper)
-
-</div>
-
----
 
 ## `> connect`
 
